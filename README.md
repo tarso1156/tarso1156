@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tarso
-- 👀 I’m interested in Angular2, PHP, React, Node, GO and SQL
+- 👀 I’m interested in Angular2, React, PHP, Node, GO, SQL and DevOps
 - 👴 I have over seven years exp (Mostly Ng2 and PHP+SQL)
-- 🌱 I’m currently learning GO
+- 🌱 Learning new things every day (5 hour rule)
 - 📫 How to reach me: tarso1156@gmail.com
