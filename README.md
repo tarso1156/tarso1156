@@ -1,4 +1,4 @@
 - 👀 I’m interested in Angular2, Node.js, PHP, SQL, Python and DevOps
-- 👴 I have over twelve years experience (Mostly Ng2, Node and PHP+SQL)
+- 👴 I have over twelve years of experience (Mostly Ng2, Node and PHP+SQL)
 - 🌱 Learning new things every day (5 hour rule)
 - 📫 How to reach me: tarso1156@gmail.com
